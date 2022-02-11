@@ -13,7 +13,7 @@
       rgba(100, 115, 255, 1) 100%
     );
   }
-  .todo-app {
+  .todo-list {
     display: flex;
     flex-direction: column;
     justify-content: start;
